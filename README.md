@@ -1,10 +1,5 @@
 
   <h1 align = "center"> 『👋』Expense-Tracker『👋』 </h1>
-  <p align = "center">
-   <img src = "https://img.shields.io/github/languages/count/mmmarinov20/expense-tracker?style=for-the-badge">
-  <img src = "https://img.shields.io/github/repo-size/mmmarinov20/expense-tracker?style=for-the-badge">
-     <img src = "https://img.shields.io/github/languages/top/mmmarinov20/expense-tracker?style=for-the-badge">
-  </p>
 
    <hr>
   <p align = "center" style:"font-size:3em">
